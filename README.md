@@ -8,7 +8,7 @@ also non of these are offical
 also these are random :/ DONT COPY PLSS
 
 I made em with...
-[!(https://skillicons.dev/icons?i=kotlin,java,gradle,androidstudio,linux&perline=5)](https://skillicons.dev)
+[[these!](https://skillicons.dev/icons?i=kotlin,java,gradle,androidstudio,linux&perline=5)](https://skillicons.dev)
 
 # Q&As
 ## whats an APK?
