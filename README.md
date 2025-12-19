@@ -7,8 +7,9 @@ also non of these are offical
 
 also these are random :/ DONT COPY PLSS
 
-I made em with...
+also I made em with...
 [![these!](https://skillicons.dev/icons?i=kotlin,java,gradle,androidstudio,linux&perline=5)](https://skillicons.dev)
+download here: https://github.com/bruhwillgaming/mystupidapks/releases/tag/apk
 
 # Q&As
 ## whats an APK?
